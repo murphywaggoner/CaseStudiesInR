@@ -7,7 +7,7 @@ This repository contains RMarkdown files and associated data files for a variety
 
 ## Additional Case Studies
 
-Other case studies to use are listed here.  This author is happy to accept recommendations for other detailed cased studies to list here. 
+Other case study sources besides those in this repository are listed here.  This author is happy to accept recommendations for other detailed cased studies to list here. 
 
 ### Cleaning and visualizing genomic data
 
@@ -70,5 +70,5 @@ of San Francisco wrote the [questions](https://github.com/murphywaggoner/Intro-D
 
 ### UN Voting Data
 
-This case study is an exploratory data analysis of historical voting data from the General Assembly of the United Nations and goes through tidying, visualizing, and modeling.  This case study is a free part of a Data Camp course on Exploratory Data Analysis in R..  Sources include the [lectures for the course](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) and the [course notes](https://rpubs.com/williamsurles/299664) from the  written by William Surles. To get to the lectures on the course page, scroll down until you get to "Data Cleaning and Summarizing with R." 
+This case study is an exploratory data analysis of historical voting data from the General Assembly of the United Nations and goes through tidying, visualizing, and modeling.  This case study is a part of a DataCamp course on *Exploratory Data Analysis in R*.  Sources include the [lectures for the course](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) and the [course notes](https://rpubs.com/williamsurles/299664) written by William Surles. To get to the lectures on the course page, scroll down until you get to "Data Cleaning and Summarizing with R." Note that to access all the lectures in this DataCamp course, you might need a subscription to DataCamp
 
