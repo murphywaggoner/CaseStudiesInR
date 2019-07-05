@@ -72,3 +72,29 @@ of San Francisco wrote the [questions](https://github.com/murphywaggoner/Intro-D
 
 This case study is an exploratory data analysis of historical voting data from the General Assembly of the United Nations and goes through tidying, visualizing, and modeling.  This case study is a part of a DataCamp course on *Exploratory Data Analysis in R*.  Sources include the [lectures for the course](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) and the [course notes](https://rpubs.com/williamsurles/299664) written by William Surles. To get to the lectures on the course page, scroll down until you get to "Data Cleaning and Summarizing with R." Note that to access all the lectures in this DataCamp course, you might need a subscription to DataCamp
 
+### Analyzing U.S. Census Data
+
+Another case study from DataCamp uses the **tidycensus** package and other tools to access census data, wrangle it, and learn how to visualize the data in a multitude of ways.  This case study uses some advanced wrangling and plotting tools for exploratory data analysis, but does not have any predictive modeling.  The first chapter of DataCamp's [Analyzing U.S. Census Data in R](https://campus.datacamp.com/courses/analyzing-us-census-data-in-r/census-data-in-r-with-tidycensus) is free, but you'll need a subscription to access the full case study. 
+
+### Analyzing Election and Polling Data in R
+
+This case study from DataCamp uses the **tidyverse**, linear models, and other tools to wrangle election and polling data, visualize it, and create predictive models from it.  Some of the questions investigated are why Brexit was difficult to predict and how can we predict the 2020 election.  The first chapter of DataCamp's [Analyzing Election and Polling Data in R](https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r) is free, but you'll need a subscription to access the full case study. 
+
+### Supervised Learning in R: Case Studies
+
+This DataCamp course uses 4 different data sets to investigate regression and classification models and how to evaluate them. The data sets include the ubiquitous **mtcars**, a StackOverflow developer survey, polling data, and a survey of nuns in 1967.  The final chapter looks at 3 models that are not covered in the courses at Simpson.   The first chapter of DataCamp's [Supervised Learning in R: Case Studies](https://campus.datacamp.com/courses/supervised-learning-in-r-case-studies) is free, but you'll need a subscription to access the full course.
+
+### Exploring Pitch Data with R
+
+Students who are interested in honing their exploratory data analysis skills in R while looking at publicly available Major League Baseball data will be interested in this case study.  The **tidyverse** tools are used in this course, especially **ggplot** for creating a variety of plots including heatmaps to explore data about pitching in MLB. The first chapter of DataCamp's [Exploring Pitch Data with R](https://www.datacamp.com/courses/exploring-pitch-data-with-r) is free, but you'll need a subscription to access the full course.
+
+### Logistic Modeling to Predict Employee Turnover
+
+This case study uses human resource data to predict employee turnover.  The course has 4 chapters focusing on acquiring data, feature engineering, creating a logistic regression model, and validating and using that model, respectively.  Emphasis is placed on recognizing and handling multicolinarity and using a confusion table.  The first chapter of DataCamp's [Human Resources Analytics in R: Predicting Employee Churn](https://www.datacamp.com/courses/human-resources-analytics-in-r-predicting-employee-churn) is free, but you'll need a subscription to access the full course.
+
+### 
+
+
+
+
+
